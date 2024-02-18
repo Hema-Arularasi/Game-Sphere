@@ -15,5 +15,5 @@ The AR game allows users to interact with virtual objects by tapping on the scre
 3. Run the Game1.py file.
 ## Installation
 Make sure you have the required dependencies installed for each game.
-pip install kivy
-pip install pygame
+1.pip install kivy
+2.pip install pygame
