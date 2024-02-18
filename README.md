@@ -8,7 +8,7 @@ The AR game allows users to interact with virtual objects by tapping on the scre
 2. Navigate to the ARGame directory.
 3. Run the Game1.py file.
 ###  Word Guess Game
-The Word Guess game is a text-based game where players try to guess a word by inputting letters. It comes with a variety of words and hints related to different themes. Follow the instructions below to set up and run the Word Guess game.
+2.The Word Guess game is a text-based game where players try to guess a word by inputting letters. It comes with a variety of words and hints related to different themes. Follow the instructions below to set up and run the Word Guess game.
 #### How to Play
 1. Clone the repository.
 2. Navigate to the HangmanGame directory.
